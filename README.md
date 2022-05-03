@@ -5,6 +5,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for astr
 ## Table of Contents
 
 - [Blogs](#Blogs)
+- [Popular Websites](#popular-websites)
+- [Courses](#Courses)
+- [Repositories](#Repositories)
+- [Other](#Other)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribute](#contribute)
 - [License](#license)
