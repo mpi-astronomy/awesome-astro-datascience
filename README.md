@@ -32,6 +32,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for astr
 - [Multiple Views](https://medium.com/multiple-views-visualization-research-explained) visualization research explained
 
 ### Twitter
+
+People who work in this space and are occasionally active on Twitter: 
+
 - [Daniela Huppenkothen](https://twitter.com/Tiana_Athriel)
 - [Dustin Lang](https://twitter.com/dstndstn)
 - [Gautham Narayan](https://twitter.com/gsnarayan)
@@ -48,7 +51,6 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for astr
 ### Popular websites
 
 In the following, be critical, not all articles are written by specialists. Some are also experiements and others are just for fun.
-
 
 - [Towards data science](https://towardsdatascience.com/)
 - [Medium/Data Science](https://medium.com/tag/data-science)
