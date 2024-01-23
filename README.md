@@ -4,6 +4,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for astr
 
 ## Table of Contents
 
+- [Books](#Books)
 - [Blogs](#Blogs)
 - [Twitter](#twitter)
 - [Popular Websites](#popular-websites)
@@ -14,6 +15,12 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for astr
 - [Contribute](#contribute)
 - [License](#license)
 
+### Books
+
+- [Modern Statistical Methods for Astronomy](https://astrostatistics.psu.edu/MSMA/) by Eric D. Feigelson & G. Jogesh Babu. R scripts and datasets available for download from the website.
+- [Statistics, Data Mining, and Machine Learning in Astronomy](https://github.com/astroML/astroML-notebooks) by Željko Ivezić, Andrew Connolly, Jacob Vanderplas, and Alex Gray
+- [Python for Astronomers](https://github.com/prappleizer/prappleizer.github.io) by Imad Pasha and Chris Agostino. Also [interactive webpage](https://prappleizer.github.io/) and [textbook](https://prappleizer.github.io/textbook.pdf).
+- [Machine Learning for Physics and Astronomy](https://press.princeton.edu/books/paperback/9780691206417/machine-learning-for-physics-and-astronomy) by Viviana Acquaviva. Notebooks and slide decks with resources available for download under the "Resources" tab. 
 
 ### Blogs
 
@@ -78,12 +85,21 @@ In the following, be critical, not all articles are written by specialists. Some
 
 #### Course and Workshop Materials
 - Astro Hack Week tutorial materials: [2015](https://github.com/AstroHackWeek/AstroHackWeek2015), [2016](https://github.com/AstroHackWeek/AstroHackWeek2016), [2017](https://github.com/AstroHackWeek/AstroHackWeek2017), [2018](https://github.com/AstroHackWeek/AstroHackWeek2018), [2019](https://github.com/AstroHackWeek/AstroHackWeek2019), [2020](https://github.com/AstroHackWeek/AstroHackWeek2020). Also see YouTube for recordings of some events: [2015](https://www.youtube.com/watch?v=BBDCCvY9knI&list=PLFyFNCb8irhOjeD9G7e4myw6Ot7DaBk2W), [2016](https://www.youtube.com/watch?v=EjnR_Ehz-9M&list=PLKW2Azk23ZtQSHmwOpObPEr58Pe1rpIdB), [2020](https://www.youtube.com/user/SimonsFoundation/search?query=%22Astro%20Hack%20Week%22)
-- [Code/Astro Workshop 2021 Workshop materials](https://github.com/semaphoreP/codeastro) by Jason Wang. A Software Engineering Workshop for Astronomy. 
+- [Code/Astro Workshop Workshop materials](https://github.com/semaphoreP/codeastro) by Jason Wang. A Software Engineering Workshop for Astronomy. 
 - [ESCAPE data science summer school 2021](https://github.com/escape2020/school2021) Materials on software development and open science by the European Science Cluster of Astronomy & Particle physics ESFRI research infrastructures project.
 - [Foundations of Astronomical Data Science](https://datacarpentry.org/astronomy-python/) Carpentries Curriculum
 - [Kavli 2019 Summer Program in Astrophysics Lectures](https://github.com/dkirkby/kavli2019) by David Kirkby. Machine Learning in the era of large astronomical surveys.
+- [GROWTH Astronomy School 2019](https://www.growth.caltech.edu/growth-astro-school-2019-resources.html): a school on multi-messenger time domain astronomy
 - [Machine Learning and Statistics for Physicists](https://github.com/dkirkby/MachineLearningStatistics) by David Kirby. Material for a UC Irvine course offered by the Department of Physics and Astronomy.
-- [Python for Astronomers](https://github.com/prappleizer/prappleizer.github.io) by Imad Pasha and Chris Agostino. Also [interactive webpage](https://prappleizer.github.io/) and [textbook](https://prappleizer.github.io/textbook.pdf).
+- [Analytical Methods and Applications to Astrophysics and Astronomy](https://www.youtube.com/watch?v=SXPdI_P0_cQ&list=PLUG23R), Statistical and Applied Mathematical Sciences Institute (SAMSI), 2016
+- [Time Series Methods for Astronomy](https://www.youtube.com/watch?v=chcpop1a-g8&list=PLUG23RFb_6KftdxAP6e0IRbSlnojX5Zq9), Statistical and Applied Mathematical Sciences Institute (SAMSI), 2017
+- [Astrostatistics and Machine Learning class for the MSc degree in Astrophysics at the University of Milan-Bicocca](https://github.com/dgerosa/astrostatistics_bicocca_2024) by Davide Gerosa
+- [Machine Learning for Physics and Astronomy (2022-2023)](https://github.com/LHCfitNikhef/ML4PA) by Juan Rojo, Tanjona Rabemananjara and Ryan van Mastrigt
+- [Big Data in Astrophysics, Spring 2023](https://github.com/mcoughlin/ast8581_2023_Spring) by Michael Coughlin and Jie Ding, University of Minnesota
+- [ASTR 596: Fundamentals of Data Science, Spring 2023](https://github.com/gnarayan/ast596_2023_Spring) by Gautham Narayan, University of Illinois Urbana Champaign
+- [Astrostatistics, Vanderbuilt, Spring 2022](https://github.com/VanderbiltAstronomy/astr_8070_s22) by Stephen R. Taylor
+- [La Serena School for Data Science, 2023](http://lssds.aura-astronomy.org/winter_school/content/2023-final-program)
+
 
 #### GitHub Orgs
 - [Astronomy Commons GitHub Org](https://github.com/astronomy-commons) Software Infrastructure for Science Platforms and Scalable Astronomy on Cloud Resources
