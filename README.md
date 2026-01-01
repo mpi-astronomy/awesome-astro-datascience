@@ -94,7 +94,7 @@ In the following, be critical, not all articles are written by specialists. Some
 - [Analytical Methods and Applications to Astrophysics and Astronomy](https://www.youtube.com/watch?v=SXPdI_P0_cQ&list=PLUG23R), Statistical and Applied Mathematical Sciences Institute (SAMSI), 2016
 - [Time Series Methods for Astronomy](https://www.youtube.com/watch?v=chcpop1a-g8&list=PLUG23RFb_6KftdxAP6e0IRbSlnojX5Zq9), Statistical and Applied Mathematical Sciences Institute (SAMSI), 2017
 - [Big Data Physics: Methods of Machine Learning](https://github.com/gtrichards/PHYS_440_540) by Gordon Richards at Drexel University; lots of useful links in the readme.
-- [Astrostatistics and Machine Learning class for the MSc degree in Astrophysics at the University of Milan-Bicocca](https://github.com/dgerosa/astrostatistics_bicocca_2024) by Davide Gerosa
+- [Astrostatistics and Machine Learning class for the MSc degree in Astrophysics at the University of Milan-Bicocca](https://dgerosa.github.io/astrostatistics) by Davide Gerosa
 - [Machine Learning for Physics and Astronomy (2022-2023)](https://github.com/LHCfitNikhef/ML4PA) by Juan Rojo, Tanjona Rabemananjara and Ryan van Mastrigt
 - [Big Data in Astrophysics, Spring 2023](https://github.com/mcoughlin/ast8581_2023_Spring) by Michael Coughlin and Jie Ding, University of Minnesota
 - [ASTR 596: Fundamentals of Data Science, Spring 2023](https://github.com/gnarayan/ast596_2023_Spring) by Gautham Narayan, University of Illinois Urbana Champaign
