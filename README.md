@@ -78,6 +78,7 @@ In the following, be critical, not all articles are written by specialists. Some
 - [Astronomaly](https://github.com/MichelleLochner/astronomaly) A flexible framework for anomaly detection in astronomy.
 
 #### Tutorials
+- [Retrograde interval analysis (1951–2050)](https://zenodo.org/records/23837493) A Python standard-library notebook comparing planetary station times and counting overlapping apparent retrograde intervals with a grouped boundary sweep; includes a checksum-pinned, CC BY 4.0 computed event table.
 - [Rubin Observatory Tutorial Jupyter Notebooks for Data Preview 0](https://github.com/rubin-dp0/tutorial-notebooks)
 - STScI [general Jupyter Notebooks](https://github.com/spacetelescope/notebooks) 
 - STScI [JWST Jupyter Notebooks](https://github.com/spacetelescope/jdat_notebooks) showcasing pipeline and analysis tools via science use cases
